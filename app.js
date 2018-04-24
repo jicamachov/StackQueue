@@ -31,9 +31,9 @@ peopleQueue.add('Luna');
 peopleQueue.add('Luis');
 peopleQueue.add('Jheyser');
  
-peopleQueue.toString(); // Mostrará: Carlos,Cristina,Mario
+peopleQueue.toString(); // Mostrará: Josex2,Eduardo,fabian,Luna,Luis,Jheyser
 console.log(peopleQueue.size()); // Mostrará 3
 console.log(peopleQueue.hasElements()); // Mostrará true
 peopleQueue.remove(); // Quitamos a Carlos
 peopleQueue.remove(); // Quitamos a Cristina
-peopleQueue.toString(); // Mostrará: Mario
+peopleQueue.toString(); // Mostrará: fabian,Luna,Luis,Jheyser
