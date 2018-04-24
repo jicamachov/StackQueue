@@ -44,4 +44,6 @@ function queue() {
         console.log(elements.toString());
     }
 }
+
+exports.queue = queue;
  
